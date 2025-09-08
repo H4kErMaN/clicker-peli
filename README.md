@@ -1,2 +1,2 @@
 # clicker-peli
-peli jossa klikkaillaan 
+peli jossa klikkaillaan pitsoja
